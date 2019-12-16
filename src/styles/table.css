@@ -1,0 +1,20 @@
+.container {
+  width: 90vw;
+  left: 5vw;
+}
+.title {
+  width: 20%;
+}
+.genre {
+  width: 25%;
+}
+.stock {
+  width: 20%;
+}
+
+.rate {
+  width: 20%;
+}
+#delete {
+  width: 10vw;
+}
